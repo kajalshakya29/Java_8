@@ -1,3 +1,5 @@
+## Java 8
+
 This repository contains examples and programs demonstrating the powerful features introduced in Java 8. It is designed for practice, learning, and building a strong foundation in modern Java programming.
 
 🚀 Topics Covered
@@ -21,4 +23,5 @@ JDK 8 or above
 Any IDE (IntelliJ IDEA, Eclipse, or VS Code)
 
 👩‍💻 Author
+
 Kajal Shakya : https://github.com/kajalshakya29
