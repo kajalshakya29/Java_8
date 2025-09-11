@@ -4,7 +4,9 @@ This repository contains examples and programs demonstrating the powerful featur
 
 🚀 Topics Covered
 
-Lambda Expressions & Functional Interfaces
+Lambda Expressions
+
+Functional Interfaces
 
 Stream API
 
