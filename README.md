@@ -1,4 +1,4 @@
-## Java 8
+## Java 8 
 
 This repository contains examples and programs demonstrating the powerful features introduced in Java 8. It is designed for practice, learning, and building a strong foundation in modern Java programming.
 
