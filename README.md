@@ -24,7 +24,7 @@ JDK 8 or above
 
 Any IDE (IntelliJ IDEA, Eclipse, or VS Code)
 
-## Author  
+## Author   
 **Kajal Shakya**  
 Backend Developer | Java, Spring Boot, Microservices, Hibernate, REST APIs  
 📍Agra, Uttar Pradesh  
